@@ -12,9 +12,6 @@ namespace SupTestApp_Lab1
 {
     public partial class ReportForm : Form
     {
-        public ReportForm()
-        {
-            InitializeComponent();
-        }
+      
     }
 }
